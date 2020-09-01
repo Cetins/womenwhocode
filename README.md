@@ -7,3 +7,4 @@ CONTRIBUTORS
 GitHub ID <programming languages you want to practice, so you can collabrate with our members to create/add new things to the repository>
   
   1- Cetins <html> <css> <javascript> <c> 
+  2- VJones2112 <html> <css> <javascript> <python>
