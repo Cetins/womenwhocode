@@ -1,0 +1,57 @@
+body {
+    background-image: url("./img/img1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* NAVBAR */
+
+#mainNav {
+    margin: 0;
+    padding: 20px;
+    background-color: #6b7a8f;
+}
+
+#navImg {
+    height: 5vh;
+}
+
+@media only screen and (max-width: 400px) {
+	.main-nav {
+		font-size: 0.9em;
+		padding: 5px;
+	}
+	li {
+		padding: 10px;
+	}
+
+/* COVER */
+
+#mainCover {
+    padding: 20px;
+    text-align: center;
+}
+
+/* PROJECT GRID */
+
+
+
+/* .projectBox {
+    cursor:pointer;
+    text-align: center;
+    font-size:10em;
+    border-radius:4px;
+    border:1px solid #bbb;
+    transition: all 0.3s linear;
+}
+
+.projectBox:hover {
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+} */
