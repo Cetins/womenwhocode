@@ -28,12 +28,23 @@ body {
 	li {
 		padding: 10px;
 	}
-
+}
 /* COVER */
 
 #mainCover {
     padding: 20px;
     text-align: center;
+}
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    
+}
+#navbar a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 800;
 }
 
 /* PROJECT GRID */
